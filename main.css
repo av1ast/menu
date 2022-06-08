@@ -66,17 +66,17 @@ ul li:nth-child(6n + 1) a:before {
   background: #81ecec;
 }
 ul li:nth-child(6n + 2) a:before {
-  background: #ff7675;
+  background: #8bbafc;
 }
 ul li:nth-child(6n + 3) a:before {
-  background: #55efc4;
+  background: #8bbafc;
 }
 ul li:nth-child(6n + 4) a:before {
   background: #a29bfe;
 }
 ul li:nth-child(6n + 5) a:before {
-  background: #fd79a8;
+  background: #5291ff;
 }
 ul li:nth-child(6n + 6) a:before {
-  background: #ffeaa7;
+  background: #3a20fa;
 }
